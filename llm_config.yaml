@@ -1,0 +1,27 @@
+# LLM Provider Configuration
+# Supports multiple providers with fallback on rate limits/errors
+
+providers:
+  groq_fast:
+    enabled: true
+    api_key_env: "GROQ_API_KEY"
+    base_url: "https://api.groq.com/openai/v1"
+    default_model: "llama-3.1-8b-instant"
+    fallback_models: ["llama-3.1-70b-versatile", "mixtral-8x7b-32768", "gemma2-9b-it"]
+    max_tokens_per_minute: 6000
+    priority: 1  # Try first for general tasks
+
+  groq_critique:
+    enabled: true
+    api_key_env: "GROQ_API_KEY"  # Same API key
+    base_url: "https://api.groq.com/openai/v1"
+    default_model: "deepseek-r1-distill-llama-70b"
+    fallback_models: ["llama-3.1-70b-versatile", "mixtral-8x7b-32768"]
+    max_tokens_per_minute: 3000  # Lower limit for larger model
+    priority: 2  # Use for critique tasks
+
+# Global settings
+fallback_enabled: true
+max_retries: 3  # Increased for model fallback
+timeout_seconds: 60
+model_fallback_enabled: true  # Enable model-level fallback within same provider

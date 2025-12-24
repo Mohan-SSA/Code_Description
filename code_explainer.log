@@ -1,0 +1,206 @@
+2025-12-24 11:54:34,028 - __main__ - ERROR - Git clone failed: fatal: repository '/home/dell/Bhanu/PPC_AgenticAI_Professional/OneDrive_1_3-4-2025' does not exist
+
+2025-12-24 11:54:34,028 - __main__ - ERROR - Indexing failed: Failed to clone repository: fatal: repository '/home/dell/Bhanu/PPC_AgenticAI_Professional/OneDrive_1_3-4-2025' does not exist
+
+2025-12-24 11:54:51,991 - __main__ - ERROR - Git clone failed: fatal: could not create work tree dir 'work_repos\production-grade-agentic-system?source=post_page-----37ee5d941f1c---------------------------------------': Invalid argument
+
+2025-12-24 11:54:51,994 - __main__ - ERROR - Indexing failed: Failed to clone repository: fatal: could not create work tree dir 'work_repos\production-grade-agentic-system?source=post_page-----37ee5d941f1c---------------------------------------': Invalid argument
+
+2025-12-24 11:55:08,086 - __main__ - INFO - Loaded 54 code files from work_repos\production-grade-agentic-system
+2025-12-24 11:55:08,094 - __main__ - INFO - Created 285 chunks from 54 files
+2025-12-24 11:55:08,153 - chromadb.telemetry.product.posthog - INFO - Anonymized telemetry enabled. See                     https://docs.trychroma.com/telemetry for more information.
+2025-12-24 12:05:46,787 - __main__ - INFO - Loaded 54 code files from work_repos\production-grade-agentic-system
+2025-12-24 12:05:46,792 - __main__ - INFO - Created 285 chunks from 54 files
+2025-12-24 12:05:46,859 - chromadb.telemetry.product.posthog - INFO - Anonymized telemetry enabled. See                     https://docs.trychroma.com/telemetry for more information.
+2025-12-24 12:05:46,991 - sentence_transformers.SentenceTransformer - INFO - Load pretrained SentenceTransformer: all-MiniLM-L6-v2
+2025-12-24 12:06:05,129 - __main__ - INFO - Collection built with 285 chunks
+2025-12-24 12:06:06,666 - httpx - INFO - HTTP Request: POST https://api.groq.com/openai/v1/chat/completions "HTTP/1.1 200 OK"
+2025-12-24 12:07:55,275 - httpx - INFO - HTTP Request: POST https://api.groq.com/openai/v1/chat/completions "HTTP/1.1 200 OK"
+2025-12-24 12:08:23,428 - httpx - INFO - HTTP Request: POST https://api.groq.com/openai/v1/chat/completions "HTTP/1.1 200 OK"
+2025-12-24 12:08:41,286 - httpx - INFO - HTTP Request: POST https://api.groq.com/openai/v1/chat/completions "HTTP/1.1 200 OK"
+2025-12-24 12:08:41,349 - httpx - INFO - HTTP Request: POST https://api.groq.com/openai/v1/chat/completions "HTTP/1.1 429 Too Many Requests"
+2025-12-24 12:08:41,351 - groq._base_client - INFO - Retrying request to /openai/v1/chat/completions in 46.000000 seconds
+2025-12-24 12:09:28,630 - httpx - INFO - HTTP Request: POST https://api.groq.com/openai/v1/chat/completions "HTTP/1.1 200 OK"
+2025-12-24 12:10:46,581 - __main__ - INFO - Loaded 54 code files from work_repos\production-grade-agentic-system
+2025-12-24 12:10:46,586 - __main__ - INFO - Created 285 chunks from 54 files
+2025-12-24 12:10:46,638 - chromadb.telemetry.product.posthog - INFO - Anonymized telemetry enabled. See                     https://docs.trychroma.com/telemetry for more information.
+2025-12-24 12:10:46,752 - sentence_transformers.SentenceTransformer - INFO - Load pretrained SentenceTransformer: all-MiniLM-L6-v2
+2025-12-24 12:10:58,742 - __main__ - INFO - Collection built with 285 chunks
+2025-12-24 12:11:00,298 - httpx - INFO - HTTP Request: POST https://api.groq.com/openai/v1/chat/completions "HTTP/1.1 200 OK"
+2025-12-24 12:11:29,172 - httpx - INFO - HTTP Request: POST https://api.groq.com/openai/v1/chat/completions "HTTP/1.1 200 OK"
+2025-12-24 12:11:29,233 - httpx - INFO - HTTP Request: POST https://api.groq.com/openai/v1/chat/completions "HTTP/1.1 429 Too Many Requests"
+2025-12-24 12:11:29,234 - groq._base_client - INFO - Retrying request to /openai/v1/chat/completions in 47.000000 seconds
+2025-12-24 12:12:17,119 - httpx - INFO - HTTP Request: POST https://api.groq.com/openai/v1/chat/completions "HTTP/1.1 200 OK"
+2025-12-24 12:12:36,612 - httpx - INFO - HTTP Request: POST https://api.groq.com/openai/v1/chat/completions "HTTP/1.1 429 Too Many Requests"
+2025-12-24 12:12:36,613 - groq._base_client - INFO - Retrying request to /openai/v1/chat/completions in 22.000000 seconds
+2025-12-24 12:13:01,273 - httpx - INFO - HTTP Request: POST https://api.groq.com/openai/v1/chat/completions "HTTP/1.1 200 OK"
+2025-12-24 12:13:01,339 - httpx - INFO - HTTP Request: POST https://api.groq.com/openai/v1/chat/completions "HTTP/1.1 429 Too Many Requests"
+2025-12-24 12:13:01,340 - groq._base_client - INFO - Retrying request to /openai/v1/chat/completions in 55.000000 seconds
+2025-12-24 12:13:57,429 - httpx - INFO - HTTP Request: POST https://api.groq.com/openai/v1/chat/completions "HTTP/1.1 200 OK"
+2025-12-24 12:18:27,419 - __main__ - INFO - Loaded 54 code files from work_repos\production-grade-agentic-system
+2025-12-24 12:18:27,424 - __main__ - INFO - Created 285 chunks from 54 files
+2025-12-24 12:18:27,460 - chromadb.telemetry.product.posthog - INFO - Anonymized telemetry enabled. See                     https://docs.trychroma.com/telemetry for more information.
+2025-12-24 12:18:27,601 - sentence_transformers.SentenceTransformer - INFO - Load pretrained SentenceTransformer: all-MiniLM-L6-v2
+2025-12-24 12:18:39,004 - __main__ - INFO - Collection built with 285 chunks
+2025-12-24 12:18:40,611 - httpx - INFO - HTTP Request: POST https://api.groq.com/openai/v1/chat/completions "HTTP/1.1 200 OK"
+2025-12-24 12:18:57,538 - httpx - INFO - HTTP Request: POST https://api.groq.com/openai/v1/chat/completions "HTTP/1.1 413 Payload Too Large"
+2025-12-24 12:18:57,539 - __main__ - ERROR - Groq API error: Error code: 413 - {'error': {'message': 'Request too large for model `llama-3.1-8b-instant` in organization `org_01kcjsn3y8es5vvvg1yj2j869d` service tier `on_demand` on tokens per minute (TPM): Limit 6000, Requested 6993, please reduce your message size and try again. Need more tokens? Upgrade to Dev Tier today at https://console.groq.com/settings/billing', 'type': 'tokens', 'code': 'rate_limit_exceeded'}}
+2025-12-24 12:19:05,612 - httpx - INFO - HTTP Request: POST https://api.groq.com/openai/v1/chat/completions "HTTP/1.1 413 Payload Too Large"
+2025-12-24 12:19:05,615 - __main__ - ERROR - Groq API error: Error code: 413 - {'error': {'message': 'Request too large for model `llama-3.1-8b-instant` in organization `org_01kcjsn3y8es5vvvg1yj2j869d` service tier `on_demand` on tokens per minute (TPM): Limit 6000, Requested 6993, please reduce your message size and try again. Need more tokens? Upgrade to Dev Tier today at https://console.groq.com/settings/billing', 'type': 'tokens', 'code': 'rate_limit_exceeded'}}
+2025-12-24 12:19:07,809 - httpx - INFO - HTTP Request: POST https://api.groq.com/openai/v1/chat/completions "HTTP/1.1 413 Payload Too Large"
+2025-12-24 12:19:07,810 - __main__ - ERROR - Groq API error: Error code: 413 - {'error': {'message': 'Request too large for model `llama-3.1-8b-instant` in organization `org_01kcjsn3y8es5vvvg1yj2j869d` service tier `on_demand` on tokens per minute (TPM): Limit 6000, Requested 6993, please reduce your message size and try again. Need more tokens? Upgrade to Dev Tier today at https://console.groq.com/settings/billing', 'type': 'tokens', 'code': 'rate_limit_exceeded'}}
+2025-12-24 12:19:09,963 - httpx - INFO - HTTP Request: POST https://api.groq.com/openai/v1/chat/completions "HTTP/1.1 413 Payload Too Large"
+2025-12-24 12:19:09,965 - __main__ - ERROR - Groq API error: Error code: 413 - {'error': {'message': 'Request too large for model `llama-3.1-8b-instant` in organization `org_01kcjsn3y8es5vvvg1yj2j869d` service tier `on_demand` on tokens per minute (TPM): Limit 6000, Requested 6993, please reduce your message size and try again. Need more tokens? Upgrade to Dev Tier today at https://console.groq.com/settings/billing', 'type': 'tokens', 'code': 'rate_limit_exceeded'}}
+2025-12-24 12:23:10,029 - __main__ - INFO - Loaded 54 code files from work_repos\production-grade-agentic-system
+2025-12-24 12:23:10,035 - __main__ - INFO - Created 285 chunks from 54 files
+2025-12-24 12:23:10,071 - chromadb.telemetry.product.posthog - INFO - Anonymized telemetry enabled. See                     https://docs.trychroma.com/telemetry for more information.
+2025-12-24 12:23:10,195 - sentence_transformers.SentenceTransformer - INFO - Load pretrained SentenceTransformer: all-MiniLM-L6-v2
+2025-12-24 12:23:23,371 - __main__ - INFO - Collection built with 285 chunks
+2025-12-24 12:23:32,115 - httpx - INFO - HTTP Request: POST https://api.groq.com/openai/v1/chat/completions "HTTP/1.1 200 OK"
+2025-12-24 12:24:45,121 - httpx - INFO - HTTP Request: POST https://api.groq.com/openai/v1/chat/completions "HTTP/1.1 413 Payload Too Large"
+2025-12-24 12:24:45,122 - __main__ - ERROR - Groq API error: Error code: 413 - {'error': {'message': 'Request too large for model `llama-3.1-8b-instant` in organization `org_01kcjsn3y8es5vvvg1yj2j869d` service tier `on_demand` on tokens per minute (TPM): Limit 6000, Requested 6993, please reduce your message size and try again. Need more tokens? Upgrade to Dev Tier today at https://console.groq.com/settings/billing', 'type': 'tokens', 'code': 'rate_limit_exceeded'}}
+2025-12-24 12:35:06,199 - httpx - INFO - HTTP Request: POST https://api.groq.com/openai/v1/chat/completions "HTTP/1.1 413 Payload Too Large"
+2025-12-24 12:35:06,200 - __main__ - ERROR - Groq API error: Error code: 413 - {'error': {'message': 'Request too large for model `llama-3.1-8b-instant` in organization `org_01kcjsn3y8es5vvvg1yj2j869d` service tier `on_demand` on tokens per minute (TPM): Limit 6000, Requested 6993, please reduce your message size and try again. Need more tokens? Upgrade to Dev Tier today at https://console.groq.com/settings/billing', 'type': 'tokens', 'code': 'rate_limit_exceeded'}}
+2025-12-24 12:35:25,600 - httpx - INFO - HTTP Request: POST https://api.groq.com/openai/v1/chat/completions "HTTP/1.1 200 OK"
+2025-12-24 12:38:53,789 - httpx - INFO - HTTP Request: POST https://api.groq.com/openai/v1/chat/completions "HTTP/1.1 413 Payload Too Large"
+2025-12-24 12:38:53,791 - __main__ - ERROR - Groq API error: Error code: 413 - {'error': {'message': 'Request too large for model `llama-3.1-8b-instant` in organization `org_01kcjsn3y8es5vvvg1yj2j869d` service tier `on_demand` on tokens per minute (TPM): Limit 6000, Requested 6993, please reduce your message size and try again. Need more tokens? Upgrade to Dev Tier today at https://console.groq.com/settings/billing', 'type': 'tokens', 'code': 'rate_limit_exceeded'}}
+2025-12-24 12:42:08,333 - httpx - INFO - HTTP Request: POST https://api.groq.com/openai/v1/chat/completions "HTTP/1.1 413 Payload Too Large"
+2025-12-24 12:42:08,334 - __main__ - ERROR - Groq API error: Error code: 413 - {'error': {'message': 'Request too large for model `llama-3.1-8b-instant` in organization `org_01kcjsn3y8es5vvvg1yj2j869d` service tier `on_demand` on tokens per minute (TPM): Limit 6000, Requested 6993, please reduce your message size and try again. Need more tokens? Upgrade to Dev Tier today at https://console.groq.com/settings/billing', 'type': 'tokens', 'code': 'rate_limit_exceeded'}}
+2025-12-24 12:52:17,899 - __main__ - INFO - Loaded 54 code files from work_repos\production-grade-agentic-system
+2025-12-24 12:52:17,905 - __main__ - INFO - Created 285 chunks from 54 files
+2025-12-24 12:52:17,954 - chromadb.telemetry.product.posthog - INFO - Anonymized telemetry enabled. See                     https://docs.trychroma.com/telemetry for more information.
+2025-12-24 12:52:18,167 - sentence_transformers.SentenceTransformer - INFO - Load pretrained SentenceTransformer: all-MiniLM-L6-v2
+2025-12-24 12:52:33,152 - __main__ - INFO - Collection built with 285 chunks
+2025-12-24 12:52:33,261 - __main__ - INFO - Calling groq with model llama-3.1-8b-instant
+2025-12-24 12:52:34,928 - __main__ - INFO - groq call successful
+2025-12-24 12:52:56,575 - __main__ - WARNING - Estimated tokens 7458 may exceed groq TPM limit 6000
+2025-12-24 12:52:56,575 - __main__ - INFO - Calling deepseek with model deepseek-chat
+2025-12-24 12:53:27,272 - __main__ - ERROR - deepseek request failed: HTTPSConnectionPool(host='api.deepseek.com', port=443): Read timed out.
+2025-12-24 14:02:11,086 - __main__ - INFO - Loaded 54 code files from work_repos\production-grade-agentic-system
+2025-12-24 14:02:11,092 - __main__ - INFO - Created 285 chunks from 54 files
+2025-12-24 14:02:11,143 - chromadb.telemetry.product.posthog - INFO - Anonymized telemetry enabled. See                     https://docs.trychroma.com/telemetry for more information.
+2025-12-24 14:02:11,301 - sentence_transformers.SentenceTransformer - INFO - Load pretrained SentenceTransformer: all-MiniLM-L6-v2
+2025-12-24 14:02:24,175 - __main__ - INFO - Collection built with 285 chunks
+2025-12-24 14:02:24,178 - __main__ - WARNING - groq_chat is deprecated, using llm_chat with multi-provider fallback.
+2025-12-24 14:02:24,179 - __main__ - INFO - Calling groq with model llama-3.1-8b-instant
+2025-12-24 14:02:26,245 - __main__ - INFO - groq call successful
+2025-12-24 14:02:42,973 - __main__ - WARNING - groq_chat is deprecated, using llm_chat with multi-provider fallback.
+2025-12-24 14:02:42,974 - __main__ - WARNING - Estimated tokens 7299 may exceed groq TPM limit 6000
+2025-12-24 14:02:42,974 - __main__ - INFO - Calling groq with model llama-3.1-8b-instant
+2025-12-24 14:02:43,555 - __main__ - ERROR - groq request failed: 413 Client Error: Payload Too Large for url: https://api.groq.com/openai/v1/chat/completions
+2025-12-24 14:02:43,556 - __main__ - INFO - Calling deepseek with model deepseek-chat
+2025-12-24 14:04:08,915 - __main__ - INFO - deepseek call successful
+2025-12-24 14:04:08,920 - __main__ - WARNING - groq_chat is deprecated, using llm_chat with multi-provider fallback.
+2025-12-24 14:04:08,921 - __main__ - WARNING - Estimated tokens 6559 may exceed groq TPM limit 6000
+2025-12-24 14:04:08,922 - __main__ - INFO - Calling groq with model llama-3.1-8b-instant
+2025-12-24 14:04:09,631 - __main__ - ERROR - groq request failed: 413 Client Error: Payload Too Large for url: https://api.groq.com/openai/v1/chat/completions
+2025-12-24 14:04:09,631 - __main__ - INFO - Calling deepseek with model deepseek-chat
+2025-12-24 14:05:29,533 - __main__ - INFO - deepseek call successful
+2025-12-24 14:11:59,657 - __main__ - WARNING - groq_chat is deprecated, using llm_chat with multi-provider fallback.
+2025-12-24 14:11:59,657 - __main__ - WARNING - API key not set for groq (env: GROQ_API_KEY)
+2025-12-24 14:11:59,658 - __main__ - WARNING - API key not set for deepseek (env: DEEPSEEK_API_KEY)
+2025-12-24 14:29:06,354 - __main__ - INFO - Loaded 54 code files from work_repos\production-grade-agentic-system
+2025-12-24 14:29:06,360 - __main__ - INFO - Created 285 chunks from 54 files
+2025-12-24 14:29:06,430 - chromadb.telemetry.product.posthog - INFO - Anonymized telemetry enabled. See                     https://docs.trychroma.com/telemetry for more information.
+2025-12-24 14:29:06,547 - sentence_transformers.SentenceTransformer - INFO - Load pretrained SentenceTransformer: all-MiniLM-L6-v2
+2025-12-24 14:29:18,645 - __main__ - INFO - Collection built with 285 chunks
+2025-12-24 14:29:18,649 - __main__ - WARNING - groq_chat is deprecated, using llm_chat with multi-provider fallback.
+2025-12-24 14:29:18,651 - __main__ - INFO - Calling groq with model llama-3.1-8b-instant
+2025-12-24 14:29:20,504 - __main__ - INFO - groq call successful
+2025-12-24 14:29:28,943 - __main__ - WARNING - groq_chat is deprecated, using llm_chat with multi-provider fallback.
+2025-12-24 14:29:28,944 - __main__ - WARNING - Estimated tokens 7299 may exceed groq TPM limit 6000
+2025-12-24 14:29:28,945 - __main__ - INFO - Calling groq with model llama-3.1-8b-instant
+2025-12-24 14:29:29,477 - __main__ - ERROR - groq request failed: 413 Client Error: Payload Too Large for url: https://api.groq.com/openai/v1/chat/completions
+2025-12-24 14:29:29,478 - __main__ - INFO - Calling deepseek with model deepseek-chat
+2025-12-24 14:30:59,883 - __main__ - INFO - deepseek call successful
+2025-12-24 14:30:59,888 - __main__ - WARNING - groq_chat is deprecated, using llm_chat with multi-provider fallback.
+2025-12-24 14:30:59,888 - __main__ - WARNING - Estimated tokens 6729 may exceed groq TPM limit 6000
+2025-12-24 14:30:59,889 - __main__ - INFO - Calling groq with model llama-3.1-8b-instant
+2025-12-24 14:31:00,466 - __main__ - ERROR - groq request failed: 413 Client Error: Payload Too Large for url: https://api.groq.com/openai/v1/chat/completions
+2025-12-24 14:31:00,466 - __main__ - INFO - Calling deepseek with model deepseek-chat
+2025-12-24 14:32:08,434 - __main__ - INFO - deepseek call successful
+2025-12-24 14:32:56,975 - __main__ - WARNING - groq_chat is deprecated, using llm_chat with multi-provider fallback.
+2025-12-24 14:32:56,976 - __main__ - WARNING - Estimated tokens 7299 may exceed groq TPM limit 6000
+2025-12-24 14:32:56,976 - __main__ - INFO - Calling groq with model llama-3.1-8b-instant
+2025-12-24 14:32:57,528 - __main__ - ERROR - groq request failed: 413 Client Error: Payload Too Large for url: https://api.groq.com/openai/v1/chat/completions
+2025-12-24 14:32:57,528 - __main__ - INFO - Calling deepseek with model deepseek-chat
+2025-12-24 14:34:33,608 - __main__ - INFO - deepseek call successful
+2025-12-24 14:34:33,610 - __main__ - WARNING - groq_chat is deprecated, using llm_chat with multi-provider fallback.
+2025-12-24 14:34:33,611 - __main__ - WARNING - Estimated tokens 7094 may exceed groq TPM limit 6000
+2025-12-24 14:34:33,611 - __main__ - INFO - Calling groq with model llama-3.1-8b-instant
+2025-12-24 14:34:34,107 - __main__ - ERROR - groq request failed: 413 Client Error: Payload Too Large for url: https://api.groq.com/openai/v1/chat/completions
+2025-12-24 14:34:34,109 - __main__ - INFO - Calling deepseek with model deepseek-chat
+2025-12-24 14:35:34,767 - __main__ - ERROR - deepseek request failed: HTTPSConnectionPool(host='api.deepseek.com', port=443): Read timed out.
+2025-12-24 14:36:08,864 - __main__ - INFO - Loaded 22 code files from work_repos\sementic-image-search
+2025-12-24 14:36:08,882 - __main__ - INFO - Created 150 chunks from 22 files
+2025-12-24 14:36:17,411 - __main__ - INFO - Collection built with 150 chunks
+2025-12-24 14:36:17,415 - __main__ - WARNING - groq_chat is deprecated, using llm_chat with multi-provider fallback.
+2025-12-24 14:36:17,417 - __main__ - INFO - Calling groq with model llama-3.1-8b-instant
+2025-12-24 14:36:19,095 - __main__ - INFO - groq call successful
+2025-12-24 14:36:29,685 - __main__ - WARNING - groq_chat is deprecated, using llm_chat with multi-provider fallback.
+2025-12-24 14:36:29,687 - __main__ - WARNING - Estimated tokens 6015 may exceed groq TPM limit 6000
+2025-12-24 14:36:29,687 - __main__ - INFO - Calling groq with model llama-3.1-8b-instant
+2025-12-24 14:36:30,151 - __main__ - ERROR - groq request failed: 429 Client Error: Too Many Requests for url: https://api.groq.com/openai/v1/chat/completions
+2025-12-24 14:36:30,152 - __main__ - INFO - Calling deepseek with model deepseek-chat
+2025-12-24 14:37:30,832 - __main__ - ERROR - deepseek request failed: HTTPSConnectionPool(host='api.deepseek.com', port=443): Read timed out.
+2025-12-24 14:55:19,431 - __main__ - WARNING - groq_chat is deprecated, using llm_chat with multi-provider fallback.
+2025-12-24 14:55:19,432 - __main__ - WARNING - Estimated tokens 6015 may exceed groq TPM limit 6000
+2025-12-24 14:55:19,432 - __main__ - INFO - Calling groq with model llama-3.1-8b-instant
+2025-12-24 14:55:23,423 - __main__ - INFO - groq call successful
+2025-12-24 14:55:23,428 - __main__ - WARNING - groq_chat is deprecated, using llm_chat with multi-provider fallback.
+2025-12-24 14:55:23,429 - __main__ - WARNING - Estimated tokens 6003 may exceed groq TPM limit 6000
+2025-12-24 14:55:23,430 - __main__ - INFO - Calling groq with model llama-3.1-8b-instant
+2025-12-24 14:55:23,915 - __main__ - ERROR - groq request failed: 429 Client Error: Too Many Requests for url: https://api.groq.com/openai/v1/chat/completions
+2025-12-24 14:55:23,916 - __main__ - INFO - Calling deepseek with model deepseek-chat
+2025-12-24 14:57:12,632 - __main__ - INFO - deepseek call successful
+2025-12-24 18:01:14,661 - __main__ - INFO - Loaded 54 code files from work_repos\production-grade-agentic-system
+2025-12-24 18:01:14,668 - __main__ - INFO - Created 285 chunks from 54 files
+2025-12-24 18:01:14,723 - chromadb.telemetry.product.posthog - INFO - Anonymized telemetry enabled. See                     https://docs.trychroma.com/telemetry for more information.
+2025-12-24 18:01:14,970 - sentence_transformers.SentenceTransformer - INFO - Load pretrained SentenceTransformer: all-MiniLM-L6-v2
+2025-12-24 18:01:36,498 - __main__ - INFO - Collection built with 285 chunks
+2025-12-24 18:01:36,501 - __main__ - WARNING - groq_chat is deprecated, using llm_chat with multi-provider fallback.
+2025-12-24 18:01:36,502 - __main__ - INFO - Calling groq_fast with model llama-3.1-8b-instant
+2025-12-24 18:01:38,710 - __main__ - INFO - groq_fast with model llama-3.1-8b-instant call successful
+2025-12-24 18:06:15,828 - __main__ - WARNING - Estimated tokens 7299 may exceed groq_fast TPM limit 6000
+2025-12-24 18:06:15,829 - __main__ - INFO - Calling groq_fast with model llama-3.1-8b-instant
+2025-12-24 18:06:16,639 - __main__ - ERROR - groq_fast with model llama-3.1-8b-instant request failed: 413 Client Error: Payload Too Large for url: https://api.groq.com/openai/v1/chat/completions
+2025-12-24 18:06:16,640 - __main__ - INFO - Calling groq_fast with model llama-3.1-70b-versatile
+2025-12-24 18:06:17,173 - __main__ - ERROR - groq_fast with model llama-3.1-70b-versatile request failed: 400 Client Error: Bad Request for url: https://api.groq.com/openai/v1/chat/completions
+2025-12-24 18:06:17,174 - __main__ - INFO - Calling groq_fast with model mixtral-8x7b-32768
+2025-12-24 18:06:17,681 - __main__ - ERROR - groq_fast with model mixtral-8x7b-32768 request failed: 400 Client Error: Bad Request for url: https://api.groq.com/openai/v1/chat/completions
+2025-12-24 18:06:17,681 - __main__ - INFO - Calling groq_fast with model gemma2-9b-it
+2025-12-24 18:06:18,179 - __main__ - ERROR - groq_fast with model gemma2-9b-it request failed: 400 Client Error: Bad Request for url: https://api.groq.com/openai/v1/chat/completions
+2025-12-24 18:06:18,181 - __main__ - WARNING - Estimated tokens 7299 may exceed groq_critique TPM limit 3000
+2025-12-24 18:06:18,181 - __main__ - INFO - Calling groq_critique with model deepseek-r1-distill-llama-70b
+2025-12-24 18:06:18,687 - __main__ - ERROR - groq_critique with model deepseek-r1-distill-llama-70b request failed: 400 Client Error: Bad Request for url: https://api.groq.com/openai/v1/chat/completions
+2025-12-24 18:06:18,688 - __main__ - INFO - Calling groq_critique with model llama-3.1-70b-versatile
+2025-12-24 18:06:19,175 - __main__ - ERROR - groq_critique with model llama-3.1-70b-versatile request failed: 400 Client Error: Bad Request for url: https://api.groq.com/openai/v1/chat/completions
+2025-12-24 18:06:19,175 - __main__ - INFO - Calling groq_critique with model mixtral-8x7b-32768
+2025-12-24 18:06:19,626 - __main__ - ERROR - groq_critique with model mixtral-8x7b-32768 request failed: 400 Client Error: Bad Request for url: https://api.groq.com/openai/v1/chat/completions
+2025-12-24 18:07:22,556 - __main__ - INFO - Loaded 3 code files from C:\Users\Mohan\AppData\Local\Temp\code_zip_s10hhxw_
+2025-12-24 18:07:22,557 - __main__ - INFO - Created 63 chunks from 3 files
+2025-12-24 18:07:24,936 - __main__ - INFO - Collection built with 63 chunks
+2025-12-24 18:07:24,939 - __main__ - WARNING - groq_chat is deprecated, using llm_chat with multi-provider fallback.
+2025-12-24 18:07:24,939 - __main__ - INFO - Calling groq_fast with model llama-3.1-8b-instant
+2025-12-24 18:07:26,069 - __main__ - INFO - groq_fast with model llama-3.1-8b-instant call successful
+2025-12-24 18:07:31,217 - __main__ - INFO - Calling groq_fast with model llama-3.1-8b-instant
+2025-12-24 18:07:34,343 - __main__ - INFO - groq_fast with model llama-3.1-8b-instant call successful
+2025-12-24 18:07:34,346 - __main__ - INFO - Calling groq_fast with model llama-3.1-8b-instant
+2025-12-24 18:07:34,856 - __main__ - ERROR - groq_fast with model llama-3.1-8b-instant request failed: 429 Client Error: Too Many Requests for url: https://api.groq.com/openai/v1/chat/completions
+2025-12-24 18:07:34,857 - __main__ - INFO - Calling groq_fast with model llama-3.1-70b-versatile
+2025-12-24 18:07:35,349 - __main__ - ERROR - groq_fast with model llama-3.1-70b-versatile request failed: 400 Client Error: Bad Request for url: https://api.groq.com/openai/v1/chat/completions
+2025-12-24 18:07:35,350 - __main__ - INFO - Calling groq_fast with model mixtral-8x7b-32768
+2025-12-24 18:07:35,842 - __main__ - ERROR - groq_fast with model mixtral-8x7b-32768 request failed: 400 Client Error: Bad Request for url: https://api.groq.com/openai/v1/chat/completions
+2025-12-24 18:07:35,843 - __main__ - INFO - Calling groq_fast with model gemma2-9b-it
+2025-12-24 18:07:36,346 - __main__ - ERROR - groq_fast with model gemma2-9b-it request failed: 400 Client Error: Bad Request for url: https://api.groq.com/openai/v1/chat/completions
+2025-12-24 18:07:36,346 - __main__ - WARNING - Estimated tokens 3567 may exceed groq_critique TPM limit 3000
+2025-12-24 18:07:36,346 - __main__ - INFO - Calling groq_critique with model deepseek-r1-distill-llama-70b
+2025-12-24 18:07:36,879 - __main__ - ERROR - groq_critique with model deepseek-r1-distill-llama-70b request failed: 400 Client Error: Bad Request for url: https://api.groq.com/openai/v1/chat/completions
+2025-12-24 18:07:36,879 - __main__ - INFO - Calling groq_critique with model llama-3.1-70b-versatile
+2025-12-24 18:07:37,367 - __main__ - ERROR - groq_critique with model llama-3.1-70b-versatile request failed: 400 Client Error: Bad Request for url: https://api.groq.com/openai/v1/chat/completions
+2025-12-24 18:07:37,368 - __main__ - INFO - Calling groq_critique with model mixtral-8x7b-32768
+2025-12-24 18:07:37,865 - __main__ - ERROR - groq_critique with model mixtral-8x7b-32768 request failed: 400 Client Error: Bad Request for url: https://api.groq.com/openai/v1/chat/completions
+2025-12-24 18:13:56,333 - __main__ - INFO - Calling groq_fast with model llama-3.1-8b-instant
+2025-12-24 18:13:59,357 - __main__ - INFO - groq_fast with model llama-3.1-8b-instant call successful
+2025-12-24 18:13:59,361 - __main__ - INFO - Calling groq_fast with model llama-3.1-8b-instant
+2025-12-24 18:14:01,417 - __main__ - INFO - groq_fast with model llama-3.1-8b-instant call successful

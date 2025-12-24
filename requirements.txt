@@ -1,7 +1,11 @@
-chromadb 
-langchain-community 
-langchain-text-splitters 
-groq 
+chromadb
+langchain-community
+langchain-text-splitters
+groq
 python-dotenv
 sentence-transformers
 streamlit
+markdown
+pdfkit
+pyyaml
+requests
